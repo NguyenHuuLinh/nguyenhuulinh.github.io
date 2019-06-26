@@ -1,22 +1,22 @@
 [
   {
     "id": 1,
-    "url-img":"https://stagingimg.gkitchen.com.vn/groupCategories/background-1547652520025.png",
-    "url-icon":"https://stagingimg.gkitchen.com.vn/groupCategories/icon-1547880316987.jpg",
+    "url_img":"https://stagingimg.gkitchen.com.vn/groupCategories/background-1547652520025.png",
+    "url_icon":"https://stagingimg.gkitchen.com.vn/groupCategories/icon-1547880316987.jpg",
     "title":"Tươi sống",
     "content":"Thịt mát truy xuất được hoàn toàn chuẩn 3F plus."
   },
   {
     "id": 2,
-    "url-img":"https://stagingimg.gkitchen.com.vn/groupCategories/background-1547652715755.png",
-    "url-icon":"https://stagingimg.gkitchen.com.vn/groupCategories/icon-1545218073759.png",
+    "url_img":"https://stagingimg.gkitchen.com.vn/groupCategories/background-1547652715755.png",
+    "url_icon":"https://stagingimg.gkitchen.com.vn/groupCategories/icon-1545218073759.png",
     "title":"Nấu ngay",
     "content":"Thịt mát 3F được ướp sẵn gia vị."
   },
   {
     "id": 3,
-    "url-img":"https://stagingimg.gkitchen.com.vn/groupCategories/background-1548126504833.png",
-    "url-icon":"https://stagingimg.gkitchen.com.vn/groupCategories/icon-1545218152996.png",
+    "url_img":"https://stagingimg.gkitchen.com.vn/groupCategories/background-1548126504833.png",
+    "url_icon":"https://stagingimg.gkitchen.com.vn/groupCategories/icon-1545218152996.png",
     "title":"Ăn liền",
     "content":"Đa dạng thực phẩm tiện lợi."
   }
