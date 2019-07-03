@@ -12,7 +12,7 @@
     "name": "Template 2",
     "description": "template 2",
     "channel": "google",
-    "level": "ad set",
+    "level": "adset",
     "action: ""
   },
   {
@@ -20,7 +20,7 @@
     "name": "Template 3",
     "description": "template 3",
     "channel": "facebook",
-    "level": "ad group",
+    "level": "adgroup",
     "action: ""
   }
 ]
