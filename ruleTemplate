@@ -1,0 +1,26 @@
+[
+  {
+    "id" : 1,
+    "name": "Template 1",
+    "description": "template 1",
+    "channel": "facebook",
+    "level": "campaign",
+    "action: ""
+  },
+  {
+    "id" : 2,
+    "name": "Template 2",
+    "description": "template 2",
+    "channel": "google",
+    "level": "ad set",
+    "action: ""
+  },
+  {
+    "id" : 3,
+    "name": "Template 3",
+    "description": "template 3",
+    "channel": "facebook",
+    "level": "ad group",
+    "action: ""
+  }
+]
