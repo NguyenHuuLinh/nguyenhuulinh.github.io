@@ -8,14 +8,6 @@
     "action: ""
   },
   {
-    "id" : 2,
-    "name": "Template 2",
-    "description": "template 2",
-    "channel": "google",
-    "level": "adset",
-    "action: ""
-  },
-  {
     "id" : 3,
     "name": "Template 3",
     "description": "template 3",
