@@ -2,7 +2,7 @@
   {
     "id": 1,
     "avt": "",
-    "name": "Name 1",
+    "name": "Name1",
     "status": "Online",
     "image": "",
     "caption": "Caption 1",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "avt": "",
-    "name": "Name 2",
+    "name": "Name2",
     "status": "8minutes",
     "image": "",
     "caption": "Caption 2",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "avt": "",
-    "name": "Name 3",
+    "name": "Name3",
     "status": "Online",
     "image": "",
     "caption": "Caption 3",
